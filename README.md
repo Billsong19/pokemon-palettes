@@ -1,9 +1,9 @@
 pokemon-palettes
-
+================
 This will be my attempt at creating a library/plugin that lets people change their ui's pallette into
 that of their desired pokemon
 
-================
+original readme:
 Here's a little toy that lets you explore different color palettes composed of the pixels of individual
 Pokemon sprites. Could be useful if you need inspiration on some projects (although, I have to admit, I
 really just wanted it look pretty).
